@@ -1,1 +1,3 @@
-This is my third commit 3
+#This is my third commit 3
+
+print('Hello Git')
